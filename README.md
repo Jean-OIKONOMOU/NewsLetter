@@ -1,6 +1,10 @@
 # NewsLetter Yves Rocher
 
-Ma première Newsletter ! J'espère qu'elle n'est pas trop mauvaise :<
+Ma première Newsletter ! J'espère qu'elle n'est pas trop mauvaise. 
+
+# Collaborateurs
+
+Juste moi.
 
 ## Compatibilité avec les navigateurs
 
