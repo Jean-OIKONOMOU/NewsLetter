@@ -4,7 +4,7 @@ Ma première Newsletter ! J'espère qu'elle n'est pas trop mauvaise.
 
 # Collaborateurs
 
-Juste moi.
+Juste [moi](https://github.com/Jean-OIKONOMOU).
 
 ## Compatibilité avec les navigateurs
 
